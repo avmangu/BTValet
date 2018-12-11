@@ -1,0 +1,13 @@
+NAME: Aditya Dixit
+EMAIL: adidixit@g.ucla.edu
+ID: 504631002
+
+FILES INCLUDED (4):
+(1) - README 
+(2) - lab4c_tcp.c
+	Communicates with a logging server 
+(3) - lab4c_tls.c
+	Authenticates TLS encrypted session
+(4) - Makefile
+	To build the tarball for submission 
+	

@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1296ddc794d0c8dc6fbcb14e2e23c27b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d991f10f828734d7046633f4c0f237be/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/03a05535d59d3356e5305ee1493f950d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7b40a2ff37451c55c8f6a0b1ce0ed8d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f3c6ec7302472684d76e355747537ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/928b6ab86542bf4e237ea64297f1bc77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e6c1a4c1e469fb55875244cf72fd45fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d48185efbb80a9fdc450850f98d6115c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/09d2a143e40cf795e2ad6bc19eafb132/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/193c52788bfd144e5d6b45aa7f395b6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e2f19732134b2a431c0b8d0ebdd45e31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dd237edfa9e55e448aebc3c7f2a03998/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f00f209c83666bfc914095409e2d5f78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4eba5f4e84b2ae8ddf46315b2ce327b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/db1a0296efe29960adced7d6d676b8b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0286b71d4514b3873b89eb73e08eec6f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/49b7ba755cf569b800107b0ec3267e39/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5f531d66924a69ccf6b4f3cf51da5c36/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/182f42cde498307f081e3359f25ee3a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7cbec84e2b5da384eab897a4c03a2423/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c64b45c5ed58a6e47079a6817d670f2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0fd8831723cfc62756dc22320c1276e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/606f7b298bd8f5cbe3aafee8c69fb1d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3d18be77e309e54c48d125a4af2c3a74/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/73d8a2428409c9f182364a2631521ab5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bf5cbebcceb1c834d2702a2a12805a13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b27361297c9cf5bccfbc02787f0a5376/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d991f10f828734d7046633f4c0f237be/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d991f10f828734d7046633f4c0f237be/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0286b71d4514b3873b89eb73e08eec6f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0286b71d4514b3873b89eb73e08eec6f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/49b7ba755cf569b800107b0ec3267e39/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/49b7ba755cf569b800107b0ec3267e39/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0286b71d4514b3873b89eb73e08eec6f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.philipchen.finalm117.MainActivity
+ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.philipchen.finalm117.OrderParking
+ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:20:19-47
+activity#com.example.philipchen.finalm117.ParkingConfirmation
+ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml:21:19-54
+uses-sdk
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1296ddc794d0c8dc6fbcb14e2e23c27b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1296ddc794d0c8dc6fbcb14e2e23c27b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d991f10f828734d7046633f4c0f237be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d991f10f828734d7046633f4c0f237be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/03a05535d59d3356e5305ee1493f950d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/03a05535d59d3356e5305ee1493f950d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7b40a2ff37451c55c8f6a0b1ce0ed8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7b40a2ff37451c55c8f6a0b1ce0ed8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f3c6ec7302472684d76e355747537ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f3c6ec7302472684d76e355747537ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/928b6ab86542bf4e237ea64297f1bc77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/928b6ab86542bf4e237ea64297f1bc77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e6c1a4c1e469fb55875244cf72fd45fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e6c1a4c1e469fb55875244cf72fd45fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d48185efbb80a9fdc450850f98d6115c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d48185efbb80a9fdc450850f98d6115c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/09d2a143e40cf795e2ad6bc19eafb132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/09d2a143e40cf795e2ad6bc19eafb132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/193c52788bfd144e5d6b45aa7f395b6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/193c52788bfd144e5d6b45aa7f395b6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e2f19732134b2a431c0b8d0ebdd45e31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e2f19732134b2a431c0b8d0ebdd45e31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dd237edfa9e55e448aebc3c7f2a03998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dd237edfa9e55e448aebc3c7f2a03998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f00f209c83666bfc914095409e2d5f78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f00f209c83666bfc914095409e2d5f78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4eba5f4e84b2ae8ddf46315b2ce327b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4eba5f4e84b2ae8ddf46315b2ce327b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/db1a0296efe29960adced7d6d676b8b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/db1a0296efe29960adced7d6d676b8b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0286b71d4514b3873b89eb73e08eec6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0286b71d4514b3873b89eb73e08eec6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/49b7ba755cf569b800107b0ec3267e39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/49b7ba755cf569b800107b0ec3267e39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5f531d66924a69ccf6b4f3cf51da5c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5f531d66924a69ccf6b4f3cf51da5c36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/182f42cde498307f081e3359f25ee3a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/182f42cde498307f081e3359f25ee3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7cbec84e2b5da384eab897a4c03a2423/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7cbec84e2b5da384eab897a4c03a2423/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c64b45c5ed58a6e47079a6817d670f2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c64b45c5ed58a6e47079a6817d670f2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0fd8831723cfc62756dc22320c1276e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0fd8831723cfc62756dc22320c1276e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/606f7b298bd8f5cbe3aafee8c69fb1d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/606f7b298bd8f5cbe3aafee8c69fb1d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3d18be77e309e54c48d125a4af2c3a74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3d18be77e309e54c48d125a4af2c3a74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/73d8a2428409c9f182364a2631521ab5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/73d8a2428409c9f182364a2631521ab5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bf5cbebcceb1c834d2702a2a12805a13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bf5cbebcceb1c834d2702a2a12805a13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b27361297c9cf5bccfbc02787f0a5376/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/AdiDixit/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b27361297c9cf5bccfbc02787f0a5376/AndroidManifest.xml:20:5-44
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+		ADDED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AdiDixit/Downloads/finalm117/app/src/main/AndroidManifest.xml
