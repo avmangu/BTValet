@@ -1,3 +1,3 @@
 # BTValet
-Bluetooth Parking System - Android App + Pi Server
+Bluetooth Parking System - Pi Python Server + Android App
 
